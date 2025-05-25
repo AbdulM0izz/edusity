@@ -36,10 +36,9 @@ const Contact = () => {
             <h3>Send us a message <img src={Msg_icon} alt="" /></h3>
             <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
             <ul>
-                <li><img src={Mail_icon} alt="" /> Contact@GreatStack.dev</li>
-                <li><img src={Phone_icon} alt="" /> +1 123-456-7890</li>
-                <li><img src={Location_icon} alt="" /> 77 Massachusetts Ave, Cambridge
-                MA 02139, United States</li>
+                <li><img src={Mail_icon} alt="" /> abdulmoiz95972@gmail.com</li>
+                <li><img src={Phone_icon} alt="" /> +92343-5115961</li>
+                <li><img src={Location_icon} alt="" />Pakistan</li>
             </ul>
         </div>
         <div className="contact-col">
